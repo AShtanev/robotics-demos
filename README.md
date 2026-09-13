@@ -41,7 +41,7 @@ An operator in a VR headset drives the robot in real time: arms, hands, cameras 
   </tr>
   <tr>
     <td align="center" valign="top" width="33%">
-      <a href="videos/h2-teleop.mp4"><img src="previews/h2-teleop.gif" width="280" alt="H2 teleop"></a>
+      <video src="https://github.com/user-attachments/assets/05f9e3cb-3574-4aec-9b90-9b38a5dcaf0b" controls playsinline width="280"></video>
       <br><b>H2</b>
       <br><sub>Unitree H2 humanoid driven live from a VR headset</sub>
     </td>
@@ -61,7 +61,7 @@ An operator in a VR headset drives the robot in real time: arms, hands, cameras 
 <table>
   <tr>
     <td align="center" valign="top" width="50%">
-      <a href="videos/teleop-promo-g1.mp4"><img src="previews/teleop-promo-g1.gif" width="440" alt="G1 VR teleop promo"></a>
+      <video src="https://github.com/user-attachments/assets/a543b3bd-7c4c-4fdf-a328-2d9c593d2613" controls playsinline width="440"></video>
       <br><b>G1 VR teleop promo</b>
       <br><sub>Unitree G1 VR teleop promo, robot arms mirror the operator</sub>
     </td>
@@ -82,12 +82,12 @@ Choreography captured from a human, retargeted to the robot and performed live o
 <table>
   <tr>
     <td align="center" valign="top" width="50%">
-      <a href="videos/robot-dancer.mp4"><img src="previews/robot-dancer.gif" width="440" alt="Robot Dancer"></a>
+      <video src="https://github.com/user-attachments/assets/d5b1e8cf-b0f6-481b-a01e-ce31f5a76b01" controls playsinline width="440"></video>
       <br><b>Robot Dancer</b>
       <br><sub>Stage show: a Unitree G1 dancing alongside a professional dancer</sub>
     </td>
     <td align="center" valign="top" width="50%">
-      <a href="videos/robot-dancer-making-of.mp4"><img src="previews/robot-dancer-making-of.gif" width="440" alt="Robot Dancer, making of"></a>
+      <video src="https://github.com/user-attachments/assets/410d3b86-f260-451a-9e31-60defa85579c" controls playsinline width="440"></video>
       <br><b>Robot Dancer, making of</b>
       <br><sub>Motion capture of the choreography and retargeting to the robot</sub>
     </td>
@@ -97,12 +97,12 @@ Choreography captured from a human, retargeted to the robot and performed live o
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
-      <a href="videos/custom-boxing-demo.mp4"><img src="previews/custom-boxing-demo.gif" width="280" alt="Boxing demo"></a>
+      <video src="https://github.com/user-attachments/assets/cd78c0b2-52fe-436f-862f-19c45a97f715" controls playsinline width="280"></video>
       <br><b>Boxing</b>
       <br><sub>Custom boxing motion on a Unitree G1</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="videos/live-event-teleop.mp4"><img src="previews/live-event-teleop.gif" width="280" alt="Live event teleop"></a>
+      <video src="https://github.com/user-attachments/assets/19517a16-3336-46d3-9256-5d3ca731fe15" controls playsinline width="280"></video>
       <br><b>Live event</b>
       <br><sub>On-stage VR teleop of a Unitree G1 in front of an audience</sub>
     </td>
@@ -119,7 +119,7 @@ On-device speech recognition and speech synthesis: the robot hears a command, ex
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
-      <a href="videos/h2-voice-control.mp4"><img src="previews/h2-voice-control.gif" width="280" alt="H2 voice control"></a>
+      <video src="https://github.com/user-attachments/assets/050a4339-c57f-4de5-84b8-71e27a126fd9" controls playsinline width="280"></video>
       <br><b>H2 voice control</b>
       <br><sub>Unitree H2 following spoken commands, on-device speech recognition</sub>
     </td>
@@ -142,7 +142,7 @@ Lidar mapping, goal setting and path following, on a humanoid and on a quadruped
       <br><sub>Unitree G1 autonomous navigation: lidar map, goal, planned path in the operator UI</sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="videos/autonomous-go2.mp4"><img src="previews/autonomous-go2.gif" width="280" alt="Autonomous Go2"></a>
+      <video src="https://github.com/user-attachments/assets/7bfcea27-6f5d-41ab-af05-b87d025e8aef" controls playsinline width="280"></video>
       <br><b>Autonomous Go2</b>
       <br><sub>Unitree Go2 moving by scenario to help an exhibition guide</sub>
     </td>
