@@ -76,6 +76,16 @@ An operator in a VR headset drives the robot in real time: arms, hands, cameras 
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td align="center" valign="top" width="100%">
+      <video src="https://github.com/user-attachments/assets/c6203667-86d6-4921-9ef6-dec6805ae9e0" controls playsinline width="720"></video>
+      <br><b>G1 and H2, one headset</b>
+      <br><sub>Operator switches between a Unitree G1 and an H2 in the same session</sub>
+    </td>
+  </tr>
+</table>
+
 <br>
 
 ## Web UI for teleop
@@ -152,14 +162,34 @@ Choreography captured from a human, retargeted to the robot and performed live o
 <table>
   <tr>
     <td align="center" valign="top" width="50%">
-      <video src="https://github.com/user-attachments/assets/cd78c0b2-52fe-436f-862f-19c45a97f715" controls playsinline width="340"></video>
-      <br><b>Boxing</b>
-      <br><sub>Custom boxing motion on a Unitree G1</sub>
+      <video src="https://github.com/user-attachments/assets/68133ae6-398d-4014-8dc3-752c820d820b" controls playsinline width="340"></video>
+      <br><b>Symphony of Innovations</b>
+      <br><sub>Unitree G1 on stage with a symphony orchestra</sub>
     </td>
     <td align="center" valign="top" width="50%">
       <video src="https://github.com/user-attachments/assets/19517a16-3336-46d3-9256-5d3ca731fe15" controls playsinline width="340"></video>
       <br><b>Live event</b>
       <br><sub>On-stage VR teleop of a Unitree G1 in front of an audience</sub>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="100%">
+      <video src="https://github.com/user-attachments/assets/cd78c0b2-52fe-436f-862f-19c45a97f715" controls playsinline width="340"></video>
+      <br><b>Boxing</b>
+      <br><sub>Custom boxing motion on a Unitree G1</sub>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="100%">
+      <video src="https://github.com/user-attachments/assets/f4b31d20-aa41-477d-9c46-7c0a6fae5a01" controls playsinline width="720"></video>
+      <br><b>Boxing under VR teleop</b>
+      <br><sub>G1 sparring, driven live from the headset</sub>
     </td>
   </tr>
 </table>
