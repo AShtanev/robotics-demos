@@ -11,7 +11,7 @@
   <a href="#voice-control">Voice Control</a> ·
   <a href="#autonomous-navigation">Autonomous Navigation</a> ·
   <a href="#data-collection--learning">Data Collection &amp; Learning</a> ·
-  <a href="#inside-the-headset">Inside the Headset</a> ·
+  <a href="#web-ui-for-teleop">Web UI for teleop</a> ·
   <a href="#work-with-us">Work with us</a>
 </p>
 
@@ -54,16 +54,6 @@ An operator in a VR headset drives the robot in real time: arms, hands, cameras 
 <table>
   <tr>
     <td align="center" valign="top" width="100%">
-      <video src="https://github.com/user-attachments/assets/a543b3bd-7c4c-4fdf-a328-2d9c593d2613" controls playsinline width="720"></video>
-      <br><b>G1 VR teleop promo</b>
-      <br><sub>Unitree G1 VR teleop promo, robot arms mirror the operator</sub>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td align="center" valign="top" width="100%">
       <video src="https://github.com/user-attachments/assets/8e08f781-ce43-4063-a0bd-4616c5787c33" controls playsinline width="720"></video>
       <br><b>Bartender demo</b>
       <br><sub>Serving drinks under VR teleop</sub>
@@ -82,6 +72,53 @@ An operator in a VR headset drives the robot in real time: arms, hands, cameras 
       <video src="https://github.com/user-attachments/assets/c63173ff-7a53-48a9-96d9-51f4a497d8ed" controls playsinline width="340"></video>
       <br><b>H1</b>
       <br><sub>Unitree H1 with the same operator app</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## Web UI for teleop
+
+Browser admin panel that runs on the robot: start and stop the session, Wi-Fi, cameras, LiDAR, audio, motor health and access control. No terminal needed.
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="images/webui-2-teleop.png" width="340" alt="Teleop page: session control, microphone, speaker, headset notifications, LiDAR, camera and robot health">
+      <br><sub>Teleop page: session control, microphone, speaker, headset notifications, LiDAR, camera and robot health</sub>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="images/webui-1-wifi.png" width="340" alt="Wi-Fi: link quality and one-tap network switching">
+      <br><sub>Wi-Fi: link quality and one-tap network switching</sub>
+      <br><br>
+      <img src="images/webui-4-lidar.png" width="340" alt="LiDAR: live top-down point cloud">
+      <br><sub>LiDAR: live top-down point cloud</sub>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="images/webui-5-audio.png" width="340" alt="Audio: player, playlists and text-to-speech on the robot speaker">
+      <br><sub>Audio: player, playlists and text-to-speech on the robot speaker</sub>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="images/webui-3-robot-health.png" width="340" alt="Robot health: battery and winding temperature of every motor at 75 Hz">
+      <br><sub>Robot health: battery and winding temperature of every motor at 75 Hz</sub>
+      <br><br>
+      <img src="images/webui-7-logs.png" width="340" alt="Logs: one-click export">
+      <br><sub>Logs: one-click export</sub>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="100%">
+      <img src="images/webui-6-security.png" width="340" alt="Security: admin password, operator PIN, developer functions">
+      <br><sub>Security: admin password, operator PIN, developer functions</sub>
     </td>
   </tr>
 </table>
@@ -186,30 +223,6 @@ Episodes recorded during VR teleop go straight into a LeRobot dataset (cameras, 
       <video src="https://github.com/user-attachments/assets/17c5069a-dbd4-4f9f-84e9-2655ee00ac06" controls playsinline width="340"></video>
       <br><b>Same episode, robot view</b>
       <br><sub>What the robot's cameras recorded</sub>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-## Inside the Headset
-
-What the operator sees, and the legend for the status bar.
-
-<table>
-  <tr>
-    <td align="center" valign="top" width="100%">
-      <img src="images/hud-operator-view.png" width="720" alt="Operator view in the headset">
-      <br><sub>Stereo camera feed, hand tracking, robot pose insets, FPS and battery</sub>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td align="center" valign="top" width="100%">
-      <img src="images/hud-legend.png" width="720" alt="HUD legend">
-      <br><sub>Status bar: link quality, IMU, temperature, hand data, stereo stream</sub>
     </td>
   </tr>
 </table>
