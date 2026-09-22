@@ -5,6 +5,8 @@
   Everything below was filmed on real hardware: <b>Unitree G1, G1-D, H1, H2</b> and <b>Go2</b>.
 </p>
 
+<p align="center"><b>Web version with all clips: <a href="https://ashtanev.github.io/robotics-demos/">ashtanev.github.io/robotics-demos</a></b></p>
+
 <p align="center">
   <a href="#vr-teleoperation">VR Teleoperation</a> ·
   <a href="#performance--motion">Performance &amp; Motion</a> ·
