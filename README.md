@@ -33,7 +33,7 @@ An operator in a VR headset drives the robot in real time: arms, hands, cameras 
     <td align="center" valign="top" width="50%">
       <video src="https://github.com/user-attachments/assets/ab7e6b79-3e08-49ad-92bc-f7c6d4114bc1" controls playsinline width="340"></video>
       <br><b>G1, moving camera</b>
-      <br><sub>Same session filmed from a moving camera</sub>
+      <br><sub>Custom head-mounted camera mount for a better view</sub>
     </td>
   </tr>
 </table>
@@ -48,7 +48,7 @@ An operator in a VR headset drives the robot in real time: arms, hands, cameras 
     <td align="center" valign="top" width="50%">
       <video src="https://github.com/user-attachments/assets/b93cbe05-5bdb-4815-8e75-94c19a0701b6" controls playsinline width="340"></video>
       <br><b>Two robots</b>
-      <br><sub>Two bodies, one operator app</sub>
+      <br><sub>Dexterity demonstration teleoperating two robots</sub>
     </td>
   </tr>
 </table>
