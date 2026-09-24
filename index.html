@@ -170,7 +170,8 @@ const DATA = {
         l:"Lidar mapping, goal setting and path following, on a humanoid and on a quadruped.",
         items:[
           { f:"nav-demo", t:"G1 navigation", d:"Unitree G1 autonomous navigation: lidar map, goal, planned path in the operator UI.", dur:"0:40" },
-          { f:"autonomous-go2", t:"Autonomous Go2", d:"Unitree Go2 moving by scenario to help an exhibition guide.", dur:"2:48" }
+          { f:"go2-library", t:"Go2 exhibition guide", d:"Voice-activated scenario at an exhibition: the Go2 starts on a spoken command, introduces itself and walks to the requested point.", dur:"2:00" },
+          { f:"go2-charging", t:"Go2 back to the dock", d:"Unitree Go2 finishes its route and walks itself onto the charging station.", dur:"1:18" }
         ]},
       { id:"data", t:"Data Collection & Learning",
         l:"Episodes recorded during VR teleop go straight into a LeRobot dataset (cameras, state, actions, task label), ready for training policies such as ACT.",
@@ -228,7 +229,8 @@ const DATA = {
         l:"Построение карты по лидару, постановка цели и движение по маршруту, на гуманоиде и на четвероногом роботе.",
         items:[
           { f:"nav-demo", t:"Навигация G1", d:"Автономная навигация Unitree G1: карта по лидару, цель и построенный маршрут в интерфейсе оператора.", dur:"0:40" },
-          { f:"autonomous-go2", t:"Автономный Go2", d:"Unitree Go2 двигается по сценарию, помогая экскурсоводу на выставке.", dur:"2:48" }
+          { f:"go2-library", t:"Go2 — экскурсовод на выставке", d:"Сценарий по голосу: Go2 запускается по устной команде, представляется и идёт к названной точке.", dur:"2:00" },
+          { f:"go2-charging", t:"Go2 возвращается на зарядку", d:"Unitree Go2 завершает маршрут и сам заходит на зарядную станцию.", dur:"1:18" }
         ]}
       ,
       { id:"data", t:"Сбор данных и обучение",
@@ -242,7 +244,7 @@ const DATA = {
 };
 
 const PORTRAIT = new Set(["teleop-promo-g1d","teleop-promo-moving-camera","teleop-short-g1","two-robots","h2-teleop","h1",
-  "symphony-of-innovations","live-event-teleop","custom-boxing-demo","h2-voice-control","autonomous-go2",
+  "symphony-of-innovations","live-event-teleop","custom-boxing-demo","h2-voice-control","go2-charging",
   "episode-recording","episode-recording-robot-view"]);
 
 function caption(it){
