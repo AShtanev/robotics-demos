@@ -238,6 +238,16 @@ Lidar mapping, goal setting and path following, on a humanoid and on a quadruped
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td align="center" valign="top" width="100%">
+      <a href="videos/go2-library-broadcast-en.mp4"><img src="posters/go2-library-broadcast-en.jpg" width="720" alt="Go2 on the news"></a>
+      <br><b>Go2 on the news</b>
+      <br><sub>Television coverage of the Go2 working as a guide at the Russian State Library · <a href="videos/go2-library-broadcast-en.mp4">full video (1:01)</a></sub>
+    </td>
+  </tr>
+</table>
+
 <br>
 
 ## Data Collection &amp; Learning
