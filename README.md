@@ -275,5 +275,5 @@ Episodes recorded during VR teleop go straight into a LeRobot dataset (cameras, 
 
 The teleop stack is described in [vr-teleop](https://github.com/AShtanev/vr-teleop). We are open to collaborations, including new robot types and manufacturers, and we can give a live demo.
 
-- Telegram: [@Ashtanev](https://t.me/Ashtanev)
+- Telegram: [@ashtanev](https://t.me/ashtanev)
 - Email: [andrewblackstown@gmail.com](mailto:andrewblackstown@gmail.com)
